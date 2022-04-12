@@ -135,7 +135,7 @@ output application/json
 ---
 {
   productID: "1354686",
-  productName: "Mulesoft Course",
+  productName: "Mulesoft 4.X version Course",
   productProvider: "Udemy",
   productDescription: "Complete Mulesoft Developer Course"
 }]]></ee:set-payload>
